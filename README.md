@@ -10,9 +10,9 @@
 
 ## 八大排序算法
 
-* [Sort Algorithm.cpp - C++版](./SortAlgorithm.cpp)<br>
+* [Sort Algorithm.cpp - C++版](Algorithm/Sort Algorithms.cpp)<br>
 
-* [Sort Algorithm.py - Python版](./SortAlgorithm.py)<br>
+* [Sort Algorithm.py - Python版](Algorithm/Sort Algorithms.py)<br>
 
 * [程序员内功：八大排序算法](http://cuijiahua.com/blog/2018/01/alogrithm_9.html "悬停显示")<br>
 
